@@ -16,7 +16,7 @@ To install, copy to a directory that is in the path, e.g. `/usr/local/bin/`.
 
 ## How to use
 
-Run the following command to blink the first LED of the PC Engines APU2 boardwhenever there is network activity on the specified network interface.
+Run the following command to blink the first LED of the PC Engines APU2 board whenever there is network activity on the specified network interface.
 
 ```
 ledd --led \
