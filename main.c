@@ -30,7 +30,7 @@
 
 #define MAX_N_LEDS 16
 #define MAX_N_MONITORS 16
-#define BLINK_INTERVAL 50 /* In ms */
+#define BLINK_INTERVAL 200 /* In ms */
 
 /**
  * The led_t structures captures the status of a single LED as well as all
