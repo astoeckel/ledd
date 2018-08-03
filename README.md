@@ -1,6 +1,6 @@
 # LED Blinking Daemon
 
-Blinks LEDs on Linux systems based whenever the content of a "monitor" file changes.
+Blinks LEDs on Linux systems based whenever the content of a "monitor" file changes. This is useful for example to blink and LED whenever there is network activity on a certain network interface.
 
 ### Compile and install
 
