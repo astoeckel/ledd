@@ -1,10 +1,10 @@
 # LED Blinking Daemon
 
-Blinks LEDs available on a Linux-based system whenever the content of a "monitor" file changes. For example, this is useful to indicate network activity on a certain network interface on embedded devices.
+Can be used to cause LEDs made available through the Linux LED subsystem to blink the content of a "monitor" file changes. For example, this is useful to indicate network activity on embedded devices.
 
 ## Compile and install
 
-Simply run `make` in the root directory of this repository. Assumes that you have `gcc` and `make` installed .This program has no dependencies apart from the `C` standard library.
+Simply run `make` in the root directory of this repository. Assumes that you have `gcc` and `make` installed. This program has no dependencies apart from the `C` standard library.
 
 ```
 git clone https://github.com/astoeckel/ledd
