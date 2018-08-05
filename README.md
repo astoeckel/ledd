@@ -1,6 +1,6 @@
 # LED Blinking Daemon
 
-Can be used to cause LEDs made available through the Linux LED subsystem to blink the content of a "monitor" file changes. For example, this is useful to indicate network activity on embedded devices.
+Causes LEDs made available through the Linux LED subsystem to blink whenever the content of a "monitor" file changes. This is useful to indicate network activity on embedded devices.
 
 ## Compile and install
 
